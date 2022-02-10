@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nileshpadhiyar
 - 👀 I’m interested in learning python and start my career in coding
-- 🌱 I’m currently learning python django.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and django.
+- 📫 you can reach me at padhiyarnilesh81@gmail.com
 
 <!---
 Nileshpadhiyar81/Nileshpadhiyar81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
